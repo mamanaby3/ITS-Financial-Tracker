@@ -1,0 +1,15 @@
+{
+  "name": "its-financial-tracker",
+  "version": "1.0.0",
+  "description": "Application de suivi financier pour ITS (International Trading & Services), permettant de gérer les performances économiques mensuelles de l'entreprise.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
