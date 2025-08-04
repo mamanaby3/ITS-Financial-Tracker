@@ -1,6 +1,6 @@
 # ITS Financial Tracker
 
-Application de suivi financier pour ITS (International Trading & Services), permettant de gérer les performances économiques mensuelles de l'entreprise.
+Application de suivi financier pour ITS (International Trading & Shipping), permettant de gérer les performances économiques mensuelles de l'entreprise.
 
 ## Fonctionnalités
 
